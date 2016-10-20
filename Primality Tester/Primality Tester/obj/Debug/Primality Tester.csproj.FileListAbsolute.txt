@@ -1,0 +1,9 @@
+C:\Users\Scott\Documents\Scott\College\CS 312\Primality Tester\Primality Tester\bin\Debug\Primality Tester.exe.config
+C:\Users\Scott\Documents\Scott\College\CS 312\Primality Tester\Primality Tester\bin\Debug\Primality Tester.exe
+C:\Users\Scott\Documents\Scott\College\CS 312\Primality Tester\Primality Tester\bin\Debug\Primality Tester.pdb
+C:\Users\Scott\Documents\Scott\College\CS 312\Primality Tester\Primality Tester\obj\Debug\Primality Tester.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\Scott\College\CS 312\Primality Tester\Primality Tester\obj\Debug\Primality_Tester.Form1.resources
+C:\Users\Scott\Documents\Scott\College\CS 312\Primality Tester\Primality Tester\obj\Debug\Primality_Tester.Properties.Resources.resources
+C:\Users\Scott\Documents\Scott\College\CS 312\Primality Tester\Primality Tester\obj\Debug\Primality Tester.csproj.GenerateResource.Cache
+C:\Users\Scott\Documents\Scott\College\CS 312\Primality Tester\Primality Tester\obj\Debug\Primality Tester.exe
+C:\Users\Scott\Documents\Scott\College\CS 312\Primality Tester\Primality Tester\obj\Debug\Primality Tester.pdb
